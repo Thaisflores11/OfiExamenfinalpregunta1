@@ -1,0 +1,15 @@
+.tarjet
+{
+    padding: 15px;
+    
+    display: flex;
+}
+.texto
+{
+    color: aliceblue;
+    padding: 15px;
+}
+.parra
+{
+    color: rgb(191, 210, 226);
+}
