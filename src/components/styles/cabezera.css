@@ -1,0 +1,16 @@
+.arriba
+{
+    color:rgba(196,192,204,1);
+    font-size: 10px;
+    font-weight: 250;
+}
+.abajo 
+{
+    padding-right: 230px;
+
+}
+.cabeza2
+{
+    display: flex;
+
+}
